@@ -17,7 +17,8 @@
 ## نقشه ماژول‌ها
 | نقش / ماژول | مسیر کانتکست | وضعیت | شروع |
 |---|---|---|---|
-| معمار (Architect) | [`modules/architect/context.md`](modules/architect/context.md) · [`changelog`](modules/architect/changelog.md) | راه‌اندازی شد، منتظر دستورات کاربر | 2026-11-11 |
+| معمار (Architect) | [`modules/architect/context.md`](modules/architect/context.md) · [`changelog`](modules/architect/changelog.md) | سند بررسی نرم‌افزارها و الزامات تحویل شد | 2026-11-11 |
 
 ## آخرین آپدیت
 - 2026-11-11: ساخت نقشه مرجع و ماژول نقش معمار. — *Claude (رشته معمار)*
+- 2026-11-11: سند `modules/architect/software-review-and-requirements.md` (ورودی PRD). — *Claude (رشته معمار)*
